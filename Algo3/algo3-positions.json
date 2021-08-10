@@ -1,0 +1,59 @@
+{
+  "status": "Active",
+  "data": [
+    {
+      "Symbol": "BANKNIFTY2170136500CE",
+      "SellPrice": null,
+      "LTP": null,
+      "StopLoss": 0,
+      "BuyPrice": 0,
+      "PnL": 0,
+      "isActive": true
+    },
+    {
+      "Symbol": "BANKNIFTY2170136600CE",
+      "SellPrice": null,
+      "LTP": null,
+      "StopLoss": 0,
+      "BuyPrice": 0,
+      "PnL": 0,
+      "isActive": true
+    },
+    {
+      "Symbol": "BANKNIFTY2170136700CE",
+      "SellPrice": null,
+      "LTP": null,
+      "StopLoss": 0,
+      "BuyPrice": 0,
+      "PnL": 0,
+      "isActive": true
+    },
+    {
+      "Symbol": "BANKNIFTY2170135900PE",
+      "SellPrice": null,
+      "LTP": null,
+      "StopLoss": 0,
+      "BuyPrice": 0,
+      "PnL": 0,
+      "isActive": true
+    },
+    {
+      "Symbol": "BANKNIFTY2170135800PE",
+      "SellPrice": null,
+      "LTP": null,
+      "StopLoss": 0,
+      "BuyPrice": 0,
+      "PnL": 0,
+      "isActive": true
+    },
+    {
+      "Symbol": "BANKNIFTY2170135700PE",
+      "SellPrice": null,
+      "LTP": null,
+      "StopLoss": 0,
+      "BuyPrice": 0,
+      "PnL": 0,
+      "isActive": true
+    }
+  ]
+}

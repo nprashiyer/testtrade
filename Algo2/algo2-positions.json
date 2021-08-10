@@ -1,0 +1,21 @@
+{
+  "status": "Active",
+  "data": [
+    {
+      "Symbol": "BANKNIFTY2170836100CE",
+      "SellPrice": null,
+      "LTP": null,
+      "BuyPrice": 0,
+      "PnL": 0,
+      "isActive": true
+    },
+    {
+      "Symbol": "BANKNIFTY2170833000PE",
+      "SellPrice": null,
+      "LTP": null,
+      "BuyPrice": 0,
+      "PnL": 0,
+      "isActive": true
+    }
+  ]
+}
