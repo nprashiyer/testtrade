@@ -19,8 +19,8 @@ Algo 3 = $algo2
 Algo 3 = $algo3
 "
 
-$BotToken = "1773639028:AAHAvXnZQ7jl5f5av0mJpQXc6acht92XW4U"
-$ChatID = "-1001406087175"
+$BotToken = "1773639028:AAHAvXnZQ7jl5f5av0mJpQXc6acht92XW4Uaa"
+$ChatID = "-100140608717511"
 
 $payload = @{
         "chat_id"= $ChatID;
